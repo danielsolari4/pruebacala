@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calagit", "calagit\calagit.csproj", "{30FD8E5E-9E86-425F-96C0-7E2EFFFD1BFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30FD8E5E-9E86-425F-96C0-7E2EFFFD1BFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30FD8E5E-9E86-425F-96C0-7E2EFFFD1BFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30FD8E5E-9E86-425F-96C0-7E2EFFFD1BFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30FD8E5E-9E86-425F-96C0-7E2EFFFD1BFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A440998-3A32-44C3-8F5B-9A1DDACEBB6E}
+	EndGlobalSection
+EndGlobal
